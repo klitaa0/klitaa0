@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @klitaa0
 - 👀 I’m interested in ardunio development as a hobby
-- 🌱 I’m currently learning ardunio coding
+- 🌱 I’m currently learning how to use GitHub
 - 📫 How to reach me ...
 
 <!---
